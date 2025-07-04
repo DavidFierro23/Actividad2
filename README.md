@@ -1,7 +1,7 @@
 # Actividad2
 
 
-Este repositorio contiene una implementación sencilla de la estructura de datos **cola** (FIFO) en Python, aplicada al registro de estudiantes en una materia con cupo limitado.
+Este repositorio contiene el codigo de la estructura de datos **cola** (FIFO) en Python, aplicada al registro de estudiantes en una materia con cupo limitado.
 ---
 
 ## Archivo
